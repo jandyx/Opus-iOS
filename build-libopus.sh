@@ -22,9 +22,9 @@
 ###########################################################################
 #  Choose your libopus version and your currently-installed iOS SDK version:
 #
-VERSION="1.3"
-SDKVERSION="10.2"
-MINIOSVERSION="8.0"
+VERSION="1.3.1"      	# Input the latest opus version if needed
+SDKVERSION="15.5"       # iOS Simulator SDK Version
+MINIOSVERSION="9.0"     # Min iOS Version
 
 ###########################################################################
 #
